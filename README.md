@@ -4,7 +4,7 @@
 
 ### `PARKER // BRAND NEW DAY`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:101827,100:b30000&height=180&section=header&text=PRANAV%20VASU K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20FRIENDLY%20NEIGHBORHOOD%20CODER&descAlignY=58&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:101827,100:b30000&height=180&section=header&text=PRANAV%20VASU %20K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20FRIENDLY%20NEIGHBORHOOD%20CODER&descAlignY=58&descSize=15"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0b0f17?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pranav11-072)
 [![Profile Views](https://komarev.com/ghpvc/?username=pranav11-072\&style=for-the-badge\&color=9b0000)](https://github.com/pranav11-072)
