@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/spider-header.svg" width="100%" alt="Pranav Vasu — Parker System"/>
+<img src="./assets/spider-header.svg" width="100%" alt="Pranav Vasu K — Parker System"/>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-05070d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranav11-072)
 [![Profile Views](https://komarev.com/ghpvc/?username=pranav11-072&style=for-the-badge&color=b30000)](https://github.com/pranav11-072)
@@ -16,7 +16,7 @@
 │ PARKER SYSTEM                                               │
 ├─────────────────────────────────────────────────────────────┤
 │ STATUS       ONLINE                                         │
-│ OPERATOR     PRANAV VASU                                    │
+│ OPERATOR     PRANAV VASU K                                  │
 │ BASE         BENGALURU / INDIA                              │
 │ ROLE         DEVELOPER • BUILDER                            │
 │ MODE         LEARN → BUILD → BREAK → FIX → SHIP             │
@@ -261,7 +261,7 @@ Have an idea? Want to collaborate? Found something broken?
 
 ## 🕷️ FRIENDLY NEIGHBORHOOD DEVELOPER
 
-### `CODE WITH PURPOSE. BUILD WITH CURIOSITY.`
+### `PRANAV VASU K // CODE WITH PURPOSE. BUILD WITH CURIOSITY.`
 
 🕸️ ─────────────── 🕷️ ─────────────── 🕸️
 
