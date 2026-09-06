@@ -3,7 +3,6 @@
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03050a"/><stop offset=".55" stop-color="#08111f"/><stop offset="1" stop-color="#220307"/></linearGradient>
   <radialGradient id="glow"><stop stop-color="#d40000" stop-opacity=".42"/><stop offset="1" stop-color="#d40000" stop-opacity="0"/></radialGradient>
   <pattern id="web" width="90" height="90" patternUnits="userSpaceOnUse"><path d="M45 0V90M0 45H90M13 13L77 77M77 13L13 77" stroke="#fff" stroke-opacity=".055"/><circle cx="45" cy="45" r="22" fill="none" stroke="#fff" stroke-opacity=".04"/><circle cx="45" cy="45" r="39" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
-  <filter id="shadow"><feGaussianBlur stdDeviation="8"/></filter>
 </defs>
 <rect width="1200" height="320" fill="url(#bg)"/>
 <ellipse cx="1010" cy="120" rx="300" ry="260" fill="url(#glow)"/>
@@ -12,7 +11,7 @@
 <path d="M930 0 C900 75 930 135 875 190 S850 275 790 320" fill="none" stroke="#d50000" stroke-width="3" stroke-opacity=".55"/>
 <g transform="translate(78 70)">
   <text x="0" y="32" fill="#d40000" font-family="monospace" font-size="18" font-weight="700" letter-spacing="5">PARKER // SYSTEM ONLINE</text>
-  <text x="0" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="2">PRANAV VASU</text>
+  <text x="0" y="105" fill="#fff" font-family="Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="2">PRANAV VASU K</text>
   <text x="3" y="142" fill="#c9d1d9" font-family="monospace" font-size="19" letter-spacing="4">DEVELOPER • BUILDER • PROBLEM SOLVER</text>
   <rect x="0" y="170" width="430" height="1" fill="#d40000"/>
   <text x="0" y="202" fill="#8b949e" font-family="monospace" font-size="15">NEW DAY. NEW BUILD. SAME SPIDER-SENSE.</text>
