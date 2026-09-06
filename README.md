@@ -2,357 +2,315 @@
 
 # 🕷️ PRANAV VASU
 
-### `FRIENDLY NEIGHBORHOOD DEVELOPER`
+### `PARKER // BRAND NEW DAY`
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2800&pause=900&color=E63946&center=true&vCenter=true&width=750&lines=New+day.+New+build.+Same+me.;Initializing+Pranav.exe...;Turning+ideas+into+working+systems;AI+%7C+Web+%7C+Machine+Learning;With+great+code+comes+great+responsibility." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:101827,100:b30000&height=180&section=header&text=PRANAV%20VASU&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20FRIENDLY%20NEIGHBORHOOD%20CODER&descAlignY=58&descSize=15"/>
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-0b0f17?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pranav11-072)
+[![Profile Views](https://komarev.com/ghpvc/?username=pranav11-072\&style=for-the-badge\&color=9b0000)](https://github.com/pranav11-072)
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pranav11-072)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge\&logo=vercel\&logoColor=E63946)](YOUR_PORTFOLIO_URL)
+> **"With great power comes great responsibility."**
+> — and with great code comes great debugging.
 
 </div>
 
 ---
 
-## 🕸️ THE STORY
-
-> *Every day is a new beginning.*
-
-Hey, I'm **Pranav** 👋
-
-I'm a developer who likes taking an idea from:
-
-**"What if we built this?"**
-
-to
-
-**"Wait... it actually works."**
-
-My interests revolve around **AI/ML, web development, problem solving and building useful things.**
-
-I don't always know exactly where a project is going when I start.
-
-That's kind of the fun part.
+## 🕷️ SPIDER-SENSE
 
 ```text
-╭────────────────────────────────────────────────────────╮
-│                    PRANAV'S SUIT SYSTEM                 │
-├────────────────────────────────────────────────────────┤
-│                                                        │
-│  STATUS       : ONLINE                                 │
-│  MODE         : BUILD                                  │
-│  MISSION      : KEEP LEARNING                          │
-│  LOCATION     : SOMEWHERE BETWEEN CODE & COFFEE ☕     │
-│                                                        │
-│  CURRENT ARC                                             │
-│  ├── AI / Machine Learning                              │
-│  ├── Web Development                                    │
-│  ├── C++ & DSA                                          │
-│  ├── Computer Vision                                    │
-│  └── Building better projects                           │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════╗
+║                    PETER PARKER // SYSTEM                   ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  STATUS        : ONLINE                                      ║
+║  LOCATION      : BENGALURU, INDIA                            ║
+║  ROLE          : DEVELOPER / BUILDER                         ║
+║  MODE          : LEARN → BUILD → BREAK → FIX → REPEAT       ║
+║  CURRENT ARC   : BRAND NEW DAY                               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+I'm **Pranav Vasu**, a developer who enjoys turning ideas into things people can actually use.
+
+Currently exploring:
+
+* 💻 C++ & problem solving
+* 🌐 Web development
+* 🤖 AI-powered applications
+* 🧠 Data structures & algorithms
+* 🚀 Hackathons & real-world projects
+* 🛠️ Building, experimenting and breaking things until they work
+
+---
+
+## 🌃 NEW YORK // AFTER DARK
+
+```text
+        🏙️          🏙️       🏙️
+   ╱╲        ╱╲           ╱╲
+  ╱  ╲  🕷️  ╱  ╲    🕸️   ╱  ╲
+ ╱____╲____╱____╲________╱____╲
+
+              NIGHT SHIFT
+          CODE • BUILD • DEPLOY
+```
+
+When the city sleeps, the commits begin.
+
+My goal isn't just to write code.
+
+It's to **build things worth opening a browser for.**
 
 ---
 
 # 🧪 PARKER'S LAB
 
-### Projects I've built
+### Technologies currently in the lab
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%" valign="top">
-
-## 🫀 CardioFusion
-
-A cardiac monitoring and pacemaker simulation project designed around ECG/EGM visualization and interactive monitoring.
-
-`JavaScript`
-
-**Mission:**
-Explore healthcare technology through software.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🛡️ SafeNet-Kids
-
-An AI-focused project aimed at making the internet safer for children through detection of harmful content and online threats.
-
-`Python`
-
-**Mission:**
-Use technology to solve a real-world problem.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔐 Steganography
-
-A project for hiding and extracting information inside images.
-
-`Python`
-
-**Mission:**
-Explore information security and data hiding.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌿 Map My Herb
-
-A project focused on identifying and discovering medicinal plants.
-
-`HTML`
-
-**Mission:**
-Connect technology with useful real-world information.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🍱 Food Management
-
-A food management system designed to organize food items and help track their usage and expiry.
-
-`JavaScript`
-
-**Mission:**
-Build simple software for everyday problems.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📊 Employee Salary Prediction
-
-A machine-learning project focused on predicting employee salaries from relevant attributes.
-
-`Python`
-
-**Mission:**
-Turn data into predictions.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🕷️ MY WEB
-
-```text
-C++          ███████████████░░░░░
-Python       █████████████████░░░
-JavaScript   ████████████████░░░░
-HTML / CSS   ██████████████████░░
-AI / ML      ██████████████░░░░░░
-DSA          ████████████░░░░░░░░
-```
-
-### ⚙️ Languages & Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,git,github,vercel,vscode&theme=dark" />
 
 </p>
 
+### 🧬 Current Experiments
+
+| Experiment          | Status            |
+| ------------------- | ----------------- |
+| C++ Problem Solving | 🟢 ACTIVE         |
+| Web Development     | 🟢 ACTIVE         |
+| AI Applications     | 🟢 ACTIVE         |
+| GitHub Engineering  | 🟢 ACTIVE         |
+| Hackathon Projects  | ⚡ HIGH ACTIVITY   |
+| New Ideas           | 🧠 ALWAYS RUNNING |
+
 ---
 
-# 🧠 SPIDER-SENSE
+# 🕸️ THE CONTRIBUTION WEB
 
-Things I'm currently working on:
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav11-072&bg_color=05070d&color=ffffff&line=b30000&point=ff3333&area=true&hide_border=true"/>
+
+</div>
+
+Every commit is another strand.
+
+Every project adds another connection.
+
+Eventually...
+
+**the web gets bigger.** 🕸️
+
+---
+
+# 🎯 MISSIONS
+
+### 🕷️ Mission 01 — Build Better
+
+Become significantly better at problem solving and software development.
+
+**Objective:**
+`DSA → Projects → Real-world engineering`
+
+---
+
+### 🧪 Mission 02 — Build AI
+
+Explore how AI can solve practical problems instead of just generating text.
+
+**Objective:**
+`AI + Web + Automation`
+
+---
+
+### 🚀 Mission 03 — Ship
+
+Stop endlessly preparing.
+
+Start building.
 
 ```text
-[ ACTIVE ]
-
-→ Getting stronger at C++ & DSA
-→ Building AI/ML projects
-→ Improving web development
-→ Learning through real projects
-→ Exploring better ways to solve problems
-→ Turning more ideas into actual products
+IDEA
+ ↓
+PROTOTYPE
+ ↓
+BUILD
+ ↓
+BREAK
+ ↓
+DEBUG
+ ↓
+DEPLOY
+ ↓
+LEARN
+ ↓
+REPEAT
 ```
 
 ---
 
-# 🌃 AFTER DARK
-
-Most people see a finished project.
-
-They don't see:
+# 🦸 SUIT / SYSTEM STATUS
 
 ```text
-        idea
-          ↓
-      2:00 AM
-          ↓
-     "why is this broken?"
-          ↓
-       debugging
-          ↓
-     "OH MY GOD"
-          ↓
-       it works
-          ↓
-        push 🚀
+╔══════════════════════════════════════════════════════════╗
+║                  SPIDER-SUIT SYSTEM                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  🧠 Problem Solving       ███████████░░  85%             ║
+║  💻 C++                   ██████████░░░  80%             ║
+║  🌐 Web Development       █████████░░░░  75%             ║
+║  🤖 AI                    ████████░░░░░  70%             ║
+║  🛠️ Building              ███████████░░  85%             ║
+║  🧪 Experimentation        ████████████░  90%             ║
+║                                                          ║
+║  POWER LEVEL               : RISING                     ║
+║  WEB CONNECTION            : STABLE                     ║
+║  COFFEE                    : REQUIRED                   ║
+║  BUGS                      : TOO MANY                    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-That's probably my favorite part of development.
-
-Not knowing everything.
-
-**Figuring it out anyway.**
-
 ---
 
-# ❤️ MJ'S NOTE
+# 🧑‍💻 SELECTED PROJECTS
 
 <div align="center">
 
-### `Don't lose yourself while trying to become better.`
+### 🕷️ DRIVE SAFE AI
 
-</div>
+AI-powered driving safety concept focused on helping make roads safer.
 
-Sometimes the best motivation isn't another tutorial,
-another framework, or another project.
-
-Sometimes it's just having someone who reminds you:
-
-**You're still you.**
-
-So while I'm building, learning and constantly trying to improve —
-
-I'll remember to enjoy the journey too.
-
-**— MJ 🕷️**
+**Stack:** `AI` `Web` `JavaScript`
 
 ---
 
-# 🕸️ THE PEOPLE BEHIND THE MASK
+### 🧪 MORE PROJECTS LOADING...
+
+```text
+[██████████████████░░] 90%
+
+PROJECT DATABASE
+STATUS: EXPANDING
+```
+
+</div>
+
+> More projects will be added as they leave the lab.
+
+---
+
+# ❤️ MJ // THE HUMAN SIDE
+
+> Every superhero needs someone who reminds them they're still human.
+
+Behind all the code, commits and late-night debugging...
+
+there's life outside the terminal.
+
+**MJ Protocol:**
+
+```text
+Remember to:
+✓ Touch grass
+✓ Go outside
+✓ Talk to people
+✓ Enjoy the city
+✓ Take breaks
+✓ Come back and code better
+```
+
+Because even Peter Parker can't debug for 24 hours straight.
+
+---
+
+# 📡 COMMUNICATIONS
+
+Want to build something?
+
+Have an interesting idea?
+
+Found a bug?
+
+Or just want to talk tech?
+
+**Open an issue, start a discussion, or reach out.**
 
 <div align="center">
 
-|     🕷️ Peter     |             ❤️ MJ             |
-| :---------------: | :---------------------------: |
-| Builds the things |       Keeps him grounded      |
-|  Breaks the code  |        Reminds him why        |
-|   Fixes the bugs  |    Makes the chaos worth it   |
-|   Never gives up  | Never lets him forget himself |
+[![GitHub](https://img.shields.io/badge/GITHUB-05070d?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pranav11-072)
 
 </div>
 
 ---
 
-# 📡 GITHUB TRANSMISSION
+# 🕷️ GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranav11-072&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=FFFFFF" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranav11-072&show_icons=true&hide_border=true&bg_color=05070d&title_color=ffffff&text_color=c9d1d9&icon_color=b30000"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav11-072&theme=dark&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=FFFFFF" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav11-072&layout=compact&hide_border=true&bg_color=05070d&title_color=ffffff&text_color=c9d1d9"/>
 
 </div>
+
+---
+
+# 🏆 TROPHY ROOM
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranav11-072&theme=darkhub&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🐍 THE WEB KEEPS GROWING
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pranav11-072/pranav11-072/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+# 🕸️ DAILY BUG REPORT
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   BUG FOUND        : YES                     │
+│   BUG UNDERSTOOD   : NO                      │
+│   GOOGLE SEARCHED  : YES                     │
+│   STACKOVERFLOW    : YES                     │
+│   FIXED             : SOMEHOW                │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+---
+
+<div align="center">
+
+# 🕷️ FRIENDLY NEIGHBORHOOD DEVELOPER
+
+### `CODE WITH PURPOSE. BUILD WITH CURIOSITY.`
 
 <br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav11-072&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=FFFFFF" />
-
-</div>
-
----
-
-# 🕷️ CONTRIBUTION WEB
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pranav11-072/pranav11-072/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranav11-072&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-# 🎯 NEXT ARC
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│             BRAND NEW DAY                  │
-│                                            │
-│  □ Build bigger projects                  │
-│  □ Get stronger at DSA                    │
-│  □ Learn more about AI                    │
-│  □ Contribute to open source              │
-│  □ Build something people actually use    │
-│  □ Keep improving                         │
-│                                            │
-╰────────────────────────────────────────────╯
-```
-
----
-
-# 📬 FIND ME
-
-<div align="center">
-
-<a href="https://github.com/pranav11-072">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=E63946"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🕷️ `WITH GREAT CODE COMES GREAT RESPONSIBILITY.`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=pranav11-072&label=PEOPLE%20WHO%20FOUND%20THE%20WEB&color=E63946&style=for-the-badge" />
-
-<br><br>
 
 **Thanks for stopping by.**
 
-*See you on the other side of the web.* 🕸️
+🕸️ ───────────────── 🕷️ ───────────────── 🕸️
+
+<sub>Designed like Peter Parker's terminal. Built like a developer portfolio.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:101827,100:b30000&height=100&section=footer"/>
 
 </div>
